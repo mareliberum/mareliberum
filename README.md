@@ -15,6 +15,6 @@
   Совместный проект, над которым мы работаем. Задумка в том, чтобы вытягивать музыку по API и воспроизводить ее. 
 
 Контакты
-Email: vladfokin@646@gmail.com
+Email: vladfokin646@gmail.com
 Telegram: t.me/VladFokin
 
