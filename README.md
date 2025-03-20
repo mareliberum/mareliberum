@@ -27,5 +27,5 @@
 
 Email: vladfokin646@gmail.com
 
-Telegram: t.me/VladFokin
+Telegram: t.me/VladislavFokin05
 
